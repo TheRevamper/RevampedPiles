@@ -5,7 +5,7 @@
 This repository serves as the official space for:
 
 - **Reporting Bugs**  
-  Found an issue while playing with Revamped Piles? Please [open an issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues) and describe the problem in detail.
+  Found an issue while playing with Revamped Piles? Please [open an issue](https://github.com/TheRevamper/RevampedPiles/issues) and describe the problem in detail.
 
 - **Making Suggestions**  
   Have ideas for new structures, features, or improvements? Feel free to share your suggestions and help shape the future of the mod.
