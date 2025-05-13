@@ -2,39 +2,72 @@
 
 # 🧱 Revamped Piles – Community Hub
 
-This repository serves as the official space for:
+Welcome to the official GitHub repository for **Revamped Piles** – your place to:
 
-- **Reporting Bugs**  
-  Found an issue while playing with Revamped Piles? Please [open an issue](https://github.com/TheRevamper/RevampedPiles/issues) and describe the problem in detail.
+- 🐛 **Report Bugs**  
+  Encountered an issue while exploring the mod? [Open an issue](https://github.com/TheRevamper/RevampedPiles/issues) with a clear description so we can fix it.
 
-- **Making Suggestions**  
-  Have ideas for new structures, features, or improvements? Feel free to share your suggestions and help shape the future of the mod.
+- 💡 **Suggest Features**  
+  Have ideas for new structures, blocks, or improvements? Share your vision and help shape future updates.
 
-- **Helping with Translations**  
-  Want to see Revamped Piles in your language? You can contribute translations and help make the mod more accessible to players around the world.
-
----
-
-## Guidelines
-
-- Please **search existing issues** before opening a new one to avoid duplicates.
-- For bug reports, include:
-  - Minecraft version
-  - Mod version
-  - Loader (e.g., Fabric, Forge)
-  - A clear description and steps to reproduce the issue
-  - Crash logs (if any)
+- 🌍 **Contribute Translations**  
+  Help bring Revamped Piles to a global audience by translating it into your language.
 
 ---
 
-## Join the Community
+## 🌐 Contributing Translations
 
-Stay connected and support the project:
+We appreciate your help in making the mod more accessible!
 
-- [Modrinth Page](https://modrinth.com/mod/revamped-piles)
-- [Reddit](https://www.reddit.com/user/RevampedPiles)
-- [Support via Ko-Fi](https://ko-fi.com/therevamper)
+### 🔧 How to Translate
+
+1. **Fork this repository**
+2. Go to the `lang/` folder
+3. Add a new `.json` file for your language or edit an existing one  
+   _(e.g., `fr_fr.json`, `es_es.json`)_
+4. Submit a Pull Request (PR)
+
+### 📝 Format
+
+Use the standard Minecraft language file format:
+
+```json
+{
+  "block.revampedpiles.cobblestone_roof": "Cobblestone Roof",
+  "creativetab.plains_village_tab": "Plains Village Blocks"
+}
+```
+
+Make sure:
+- The file is valid JSON
+- Keys match those in `en_us.json`
+- Translations are clear and accurate
 
 ---
 
-Thank you for helping improve Revamped Piles!
+## 📌 Contribution Guidelines
+
+Before contributing, please:
+
+- 🔍 **Search existing issues** to avoid duplicates
+- 🐞 For bug reports, include:
+  - Minecraft version  
+  - Mod version  
+  - Loader (e.g., Fabric or Forge)  
+  - Steps to reproduce  
+  - Crash logs, if applicable
+
+---
+
+## 💬 Stay Connected
+
+Support and follow the mod here:
+
+- 🌐 [Modrinth Page](https://modrinth.com/mod/revamped-piles)
+- 🧵 [Reddit – u/RevampedPiles](https://www.reddit.com/user/RevampedPiles)
+- ☕ [Support via Ko-Fi](https://ko-fi.com/therevamper)
+
+---
+
+Thank you for being part of the Revamped Piles community!  
+Your contributions help keep the mod alive and growing.
